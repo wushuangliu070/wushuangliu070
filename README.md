@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wushuangliu070)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lin=This is Wray's homepage;a noob c++ developer)](https://git.io/typing-svg)
